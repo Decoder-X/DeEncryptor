@@ -1,4 +1,2 @@
-{"Author":"Decoder",
-"Version": "v1.4.0",
-"Github" : "https://github.com/Decoder-X"
+{"Author":"Decoder-X","Version": "v1.4.0","Github" : "https://github.com/Decoder-X"
 }
