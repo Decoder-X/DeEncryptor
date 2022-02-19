@@ -1,2 +1,5 @@
-{"Author":"Decoder-X","Version": "v1.4.0","Github" : "https://github.com/Decoder-X"
+{"Author":"Decoder-X",
+"Tool-Name": "DeEncryptor"
+"Version": "v1.4.0",
+"Github" : "https://github.com/Decoder-X"
 }
