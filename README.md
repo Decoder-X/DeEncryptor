@@ -22,7 +22,7 @@
 
 ## Screenshot
 
-<img alt="DeEncryptor" src="https://j.top4top.io/p_2241mk3kg1.jpg">
+<img alt="DeEncryptor" src="">
 
 
 ### Visitors
