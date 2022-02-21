@@ -1,24 +1,43 @@
 # DeEncryptor
-### Powerfull SMS Bombing Tool For Bangladeshi Users Only..
+### Marshal Zlib Base64 Encoder Tool
 
 ## [ * ] Installation Process:
 
-`apt-get update -y`<br>
-`apt-get upgrade -y`<br>
-`apt-get install python -y`<br>
-`apt-get install git-y`<br>
-`pip install mechanize`<br>
-`pip install requests`<br>
-`pip install colorama`<br>
-`git clone https://github.com/Decoder-X/DeEncryptor.git`<br>
-`cd DeEncryptor`<br>
-`python Encode.py`<br>
+```
+apt-get update -y
+```
+```
+apt-get upgrade -y
+```
+```
+apt-get install python -y
+```
+```
+apt-get install git-y
+```
+```
+pip install requests
+```
+```
+pip install colorama
+```
+```
+git clone https://github.com/Decoder-X/DeEncryptor.git
+```
+```
+cd DeEncryptor
+```
+```
+python Encode.py
+```
 
 
 ## Note
-- This is just Educational Purpose
-- Don't Harm Anyone
-- Author can't Take Risk
+- You need to use `python3` for using this tool
+- Follow Instruction
+
+### For any Help Contact with me
+- [**Telegram**](https://t.me/Decoder_X)
 
 ## Screenshot
 
